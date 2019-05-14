@@ -10,4 +10,5 @@ You'll need to do a little setup before you can run the code in this repo:
 * Change directories to the location where you cloned this repo
 * Create a new Anaconda environment by running `conda create -n entrefest_2019 python=3.7 anaconda=2018.12`
 * Activate the envrionment you just created by running `conda activate entrefest_2019`
-* Finally, run `jupyter notebook` to bring up the Jupyter Notebook interface in your browser. From here you can interactively run each step in building your first Machine Learning model.
+* Run `jupyter notebook` to start the Jupyter Notebook interface. This should result in a new tab openning in your default browser.
+* Click on the `Machine_Learning_Zero_To_Up_And_Running.ipynb` notebook to open it. From here you can interactively run each step in building your first Machine Learning model.

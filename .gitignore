@@ -1,3 +1,6 @@
+# ml_zeo_to_up_and_running custom
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
