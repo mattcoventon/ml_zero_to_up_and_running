@@ -1,5 +1,4 @@
 # Machine Learning: Zero to Up and Running 
-_**THIS REPO'S CONTENT IS CURRENTLY UNDER CONSTRUCTION**_
 
 This is a repo for my EntreFEST 2019 talk Machine Learning: Zero to Up and Running. It contains setup instructions and code so that you can run your first Machine Learning model. Let's get started!
 
